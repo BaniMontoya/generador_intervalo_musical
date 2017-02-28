@@ -1,3 +1,6 @@
+// Creado por Bani Montoya 2016-2017
+
+
 function escala_cromatica(num, num2){
 
 var res = [];
